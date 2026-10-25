@@ -1,0 +1,17 @@
+{
+  "name": "Faraz",
+  "role": "Senior Finance Officer",
+  "tagline": "To achieve a strategic position in the organization",
+  "email": "farazacma@hotmail.com",
+  "location": {
+    "city": "Karachi",
+    "country": "Pakistan"
+  },
+  "resume": "/resume",
+  "social": [],
+  "analytics": null,
+  "seo": {
+    "defaultTitle": "Faraz — Senior Finance Officer",
+    "defaultDescription": "Portfolio of Faraz, Senior Finance Officer based in Karachi, Pakistan."
+  }
+}
